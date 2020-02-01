@@ -6,7 +6,7 @@ namespace UserInputJordanSimmons
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi, this is Jordan speaking.");
+            Console.WriteLine("Hi, this is Jordan Simmons speaking.");
             Console.WriteLine("What is your favorite TV show?");
             Console.WriteLine("(Please type your answer below and then hit enter)");
 
