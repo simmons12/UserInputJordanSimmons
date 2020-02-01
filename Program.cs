@@ -23,7 +23,7 @@ namespace UserInputJordanSimmons
 
             TvCharacter = Console.ReadLine();
 
-            Console.WriteLine(TvCharacter + ", huh. Maybe I'll check it out and see if I have a favorite character.");
+            Console.WriteLine(TvCharacter + ", huh. Maybe I should check out the show and see if I have a favorite character.");
         }
     }
 }
